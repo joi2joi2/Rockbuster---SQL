@@ -16,3 +16,7 @@ The folllowing tools and skills were used in this project.
 - Joining Tables
 - Subqueries
 - Common Table Expressions
+- Tableau Visulizations
+
+# Visulizatons
+URL: https://public.tableau.com/app/profile/judith.ifarinde.lay
