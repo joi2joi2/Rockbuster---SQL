@@ -4,7 +4,7 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 I was asked to help launch the new online video service by loading all of Rockbuster’s data into a relational database management system (RDBMS). Then, you’ll use SQL to analyze the data and answer any ad-hoc business questions other departments may have.
 
 # Data
-The data used for this project was provided by CareerFoundry and available here.
+The data used for this project was provided by CareerFoundry and available [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
 # Tools
 The folllowing tools and skills were used in this project.
