@@ -18,5 +18,5 @@ The folllowing tools and skills were used in this project.
 - Common Table Expressions
 - Tableau Visulizations
 
-# Visulizatons
+# Visualizatons
 URL: https://public.tableau.com/app/profile/judith.ifarinde.lay
